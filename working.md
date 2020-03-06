@@ -11,13 +11,13 @@
 
 ## 代码管理
 
-[coding](https://coding.net/)
+[CODING](https://coding.net/)
 
-[github](https://github.com/)
+[GitHub](https://github.com/)
 
 [码云](https://gitee.com/)
 
-[MVNrepository](https://mvnrepository.com/)
+[MVNRepository](https://mvnrepository.com/)
 
 <hr/>
 

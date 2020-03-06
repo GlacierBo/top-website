@@ -18,9 +18,9 @@
 
 * [:mag: System Option](system.md)
 
-* [:pizza: Links](links.md)
-
 * [:performing_arts: Other](other.md)
+
+* [:pizza: Links](links.md)
 
 * [:lollipop: About](about.md)
 
