@@ -12,7 +12,7 @@
 
 * [:rocket: Working](working.md)
 
-* [:lollipop: Coding](coding.md)
+* [:fire: Coding](coding.md)
 
 * [:books: Data](data.md)
 
