@@ -1,2 +1,8 @@
-# top-website
-一个用爱发电的导航网站 ヾ(◍°∇°◍)ﾉﾞ
+
+# 常用链接
+
+
+[个人博客](http://blog.fpdan.cn)
+
+[语雀控制台](https://www.yuque.com/dashboard)
+
