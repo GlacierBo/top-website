@@ -15,13 +15,3 @@
 [腾讯分析](https://ta.qq.com/)
 
 
-## 资源搜索
-
-> 磁链
-
-
-> 网盘
-
-[如风搜](http://www.rufengso.net/)
-
-[大力盘搜索](https://www.dalipan.com/)

@@ -20,13 +20,10 @@
 
 > Mac
 
-常用软件
-
-[osxwin](https://www.osxwin.com/)
-
-[xclient](https://xclient.info/)
-
-[mac 毒](https://www.macdo.cn/)
+- 常用软件
+  - [osxwin](https://www.osxwin.com/)
+  - [xclient](https://xclient.info/)
+  - [mac 毒](https://www.macdo.cn/)
 
 
 > Windows

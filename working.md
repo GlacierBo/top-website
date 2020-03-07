@@ -1,29 +1,8 @@
-
-## 云服务器
-
-[阿里云](https://www.aliyun.com/) 
-
-[腾讯云](https://cloud.tencent.com/) 
-
-[七牛云](https://sso.qiniu.com/)
-
-<hr/>
-
-## 代码管理
-
-[CODING](https://coding.net/)
-
-[GitHub](https://github.com/)
-
-[码云](https://gitee.com/)
-
-<hr/>
-
 ## 在线工作
 
 [UZER.ME](https://uzer.me/)
 
-<hr/>
+
 
 ## 找工作
 
@@ -33,7 +12,7 @@
 
 [智联招聘](https://landing.zhaopin.com/)
 
-<hr/>
+
 
 ## 邮箱
 
@@ -43,6 +22,6 @@
 
 [网易邮箱](https://email.163.com/)
 
-<hr/>
+
 
 
