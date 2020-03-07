@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-* [:blush: Guide](/)
+<!-- * [:blush: Guide](/) -->
 
 * [:art: Tools](tools.md)
 
@@ -18,8 +18,10 @@
 
 * [:performing_arts: Other](other.md)
 
-* [:musical_note: Miscus](music.md)
+<!-- * [:musical_note: Miscus](music.md) -->
 
-* [:pizza: Links](links.md)
+<!-- * [:pizza: Links](links.md) -->
 
-* [:lollipop: About](about.md)
+<!-- 
+* [:lollipop: About](about.md) 
+-->

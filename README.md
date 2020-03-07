@@ -9,7 +9,7 @@
 
 
 
-[docsify 文档](https://docsify.js.org/#/?id=docsify)  |  [:musical_note:音乐](/music) ​| [:bulb:翻译](https://translate.google.cn) |
+[docsify 文档](https://docsify.js.org/#/?id=docsify)  | [:bulb:翻译](https://translate.google.cn) |
 
 
 > 常用链接
