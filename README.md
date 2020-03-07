@@ -8,15 +8,30 @@
 </div>
 
 
+
+[docsify 文档](https://docsify.js.org/#/?id=docsify)  |  [:musical_note:音乐](/music) ​
+
+
 > 常用链接
 
-| <img src="https://sm.bdimg.com/static/wiseindex/img/favicon64.ico" />  | [百度](https://baidu.com/) | - | <img src="/icon/google.png" />  | [Google](https://google.com/) | 
-|  ----  |  ----  | ----  |  ----  | ----  |
-|  <img src="/icon/aliyun.png" />   |  [阿里云](https://www.aliyun.com/)  | -  | <img src="/icon/tencent.png" />   | [腾讯云](https://cloud.tencent.com/)   |
-| <img src="https://github.githubassets.com/favicon.ico" /> | [GitHub](https://github.com/) | - | <img src="https://dn-coding-net-production-static.codehub.cn/platform/favicon.ico" /> | [CODING](https://coding.net/) | 
-|  <img src="/icon/yuque.png" />  |  [语雀](https://www.yuque.com/dashboard)  | - | - | - |
-|  <img src="/icon/bilibili.png" />  | [B 站](https://www.bilibili.com/)  | - | - | - |
-|  <img src="/icon/iconfont.png" />   |  [阿里图标库](https://www.iconfont.cn/) | -  |  ----  | ----  |
+| <img src="/icon/baidu.png" />            | [百度](https://baidu.com/)              | -    | <img src="/icon/google.png" />           | [Google](https://google.com/)       | -    | -                                        | x                                        | -    | -                                        | x                                        |
+| ---------------------------------------- | ------------------------------------- | ---- | ---------------------------------------- | ----------------------------------- | ---- | ---------------------------------------- | ---------------------------------------- | ---- | ---------------------------------------- | ---------------------------------------- |
+| <img src="/icon/aliyun.png" />           | [阿里云](https://www.aliyun.com/)        | -    | <img src="/icon/tencent.png" />          | [腾讯云](https://cloud.tencent.com/)   | -    | <img src="/icon/qiniu.png" />            | [七牛云]( https://sso.qiniu.com/)           | -    | -                                        | x                                        |
+| <img src="https://github.githubassets.com/favicon.ico" /> | [GitHub](https://github.com/)         | -    | <img src="https://dn-coding-net-production-static.codehub.cn/platform/favicon.ico" /> | [CODING](https://coding.net/)       | -    | -                                        | x                                        | -    | -                                        | x                                        |
+| <img src="/icon/yuque.png" />            | [语雀](https://www.yuque.com/dashboard) | -    | <img src="/icon/youdao.png">             | [有道云笔记]( <https://note.youdao.com/) | -    | <img src="/icon/tencent_doc.png" />      | [腾讯文档]( <https://docs.qq.com/)           | -    | <img src="/icon/shimo.png" />            | [石墨文档]( <https://shimo.im/)              |
+| <img src="/icon/bilibili.png" />         | [B 站](https://www.bilibili.com/)      | -    | -                                        | x                                   | -    | -                                        | x                                        | -    | -                                        | x                                        |
+| <img src="/icon/iconfont.png" />         | [阿里图标库](https://www.iconfont.cn/)     | -    | -                                        | x                                   | -    | <img src="/icon/emoji.png" />            | [Typora Emoji](https://blog.todaycoder.cn/2018/11/18/Typora-Emoji/) | -    | -                                        | x                                        |
+| <img src="https://static.interval.im/blog/eKADT2R9FC8n.png" /> | [GitMind](https://gitmind.cn/)        | -    | <img src="https://static.interval.im/blog/Fsktm9mONwhM.png" /> | [凹脑图]( https://aonaotu.com/)        | -    | <img src="https://static.interval.im/blog/qHwLEnhG0XCI.png" /> | [ZhiMap]( https://zhimap.com/)           | -    | <img src="https://static.interval.im/blog/tYY3CiqpXacc.png"/> | [ProcessOn]( https://www.processon.com/) |
+
+
+
+> 其他工具
+
+
+
+> 图片素材
+
+
 
 
 > 社区 
@@ -24,13 +39,19 @@
 [掘金](https://juejin.im/)  | [CSDN](https://www.csdn.net/) ｜ [OSChina](https://www.oschina.net/)
 
 
+
+
 > 社交
 
 [知乎](https://www.zhihu.com/)
 
+
+
+
 <!-- 
     https://cloud.tencent.com//favicon.ico?t=201902181234
     <img src="" /> 
+    
     <img src="/icon/.png" /> 
 -->
 
