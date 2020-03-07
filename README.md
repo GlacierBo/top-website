@@ -7,6 +7,13 @@
     td{
         text-align: center;
     }
+
+    #searchForm [type=text]{
+    }
+     #searchForm [type=button]{
+        color: red;
+        border: 1px;
+    }
 </style>
 
 <form method="get" action="" id="searchForm">
