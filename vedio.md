@@ -1,7 +1,3 @@
-## 在线视频
-
-[bilibili](https://www.bilibili.com/)
-
 
 ## 资源  
 

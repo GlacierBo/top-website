@@ -16,8 +16,6 @@
 
 * [:mag: System Option](system.md)
 
-* [:whale2: Games](games.md)
-
 * [:performing_arts: Other](other.md)
 
 * [:musical_note: Miscus](music.md)
@@ -25,9 +23,3 @@
 * [:pizza: Links](links.md)
 
 * [:lollipop: About](about.md)
-
-
-
-
-
-

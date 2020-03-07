@@ -9,7 +9,7 @@
 
 
 
-[docsify 文档](https://docsify.js.org/#/?id=docsify)  |  [:musical_note:音乐](/music) ​
+[docsify 文档](https://docsify.js.org/#/?id=docsify)  |  [:musical_note:音乐](/music) ​| [:bulb:翻译](https://translate.google.cn) |
 
 
 > 常用链接
@@ -17,7 +17,7 @@
 | <img src="/icon/baidu.png" />            | [百度](https://baidu.com/)              | -    | <img src="/icon/google.png" />           | [Google](https://google.com/)       | -    | -                                        | x                                        | -    | -                                        | x                                        |
 | ---------------------------------------- | ------------------------------------- | ---- | ---------------------------------------- | ----------------------------------- | ---- | ---------------------------------------- | ---------------------------------------- | ---- | ---------------------------------------- | ---------------------------------------- |
 | <img src="/icon/aliyun.png" />           | [阿里云](https://www.aliyun.com/)        | -    | <img src="/icon/tencent.png" />          | [腾讯云](https://cloud.tencent.com/)   | -    | <img src="/icon/qiniu.png" />            | [七牛云]( https://sso.qiniu.com/)           | -    | -                                        | x                                        |
-| <img src="https://github.githubassets.com/favicon.ico" /> | [GitHub](https://github.com/)         | -    | <img src="https://dn-coding-net-production-static.codehub.cn/platform/favicon.ico" /> | [CODING](https://coding.net/)       | -    | -                                        | x                                        | -    | -                                        | x                                        |
+| <img src="https://github.githubassets.com/favicon.ico" /> | [GitHub](https://github.com/)         | -    | <img src="https://dn-coding-net-production-static.codehub.cn/platform/favicon.ico" /> | [CODING](https://coding.net/)       | -    | <img src="/icon/mvn.png" />              | [MVNRepository](https://mvnrepository.com/) | -    | -                                        | x                                        |
 | <img src="/icon/yuque.png" />            | [语雀](https://www.yuque.com/dashboard) | -    | <img src="/icon/youdao.png">             | [有道云笔记]( <https://note.youdao.com/) | -    | <img src="/icon/tencent_doc.png" />      | [腾讯文档]( <https://docs.qq.com/)           | -    | <img src="/icon/shimo.png" />            | [石墨文档]( <https://shimo.im/)              |
 | <img src="/icon/bilibili.png" />         | [B 站](https://www.bilibili.com/)      | -    | -                                        | x                                   | -    | -                                        | x                                        | -    | -                                        | x                                        |
 | <img src="/icon/iconfont.png" />         | [阿里图标库](https://www.iconfont.cn/)     | -    | -                                        | x                                   | -    | <img src="/icon/emoji.png" />            | [Typora Emoji](https://blog.todaycoder.cn/2018/11/18/Typora-Emoji/) | -    | -                                        | x                                        |
@@ -30,6 +30,10 @@
 
 
 > 图片素材
+
+
+
+> 资源搜索
 
 
 

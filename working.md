@@ -17,8 +17,6 @@
 
 [码云](https://gitee.com/)
 
-[MVNRepository](https://mvnrepository.com/)
-
 <hr/>
 
 ## 在线工作
