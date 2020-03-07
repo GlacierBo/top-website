@@ -8,8 +8,6 @@
 
 * [:zap: Vedio](vedio.md) 
 
-* [:whale2: Games](games.md)
-
 * [:rocket: Working](working.md)
 
 * [:fire: Coding](coding.md)
@@ -17,6 +15,8 @@
 * [:books: Data](data.md)
 
 * [:mag: System Option](system.md)
+
+* [:whale2: Games](games.md)
 
 * [:performing_arts: Other](other.md)
 

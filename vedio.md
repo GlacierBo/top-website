@@ -3,8 +3,6 @@
 [bilibili](https://www.bilibili.com/)
 
 
-<hr/>
-
 ## 资源  
 
 > 视频

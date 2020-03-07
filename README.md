@@ -1,27 +1,11 @@
+<link rel="stylesheet" type="text/css" href="/css/search.css">
+<link rel="stylesheet" type="text/css" href="/css/guide.css">
+<script type="text/javascript" src="/js/search.js"></script>
 
-<style type="text/css">
-    img{
-        width: 1.25rem;
-        height: 1.25rem;
-    }
-    td{
-        text-align: center;
-    }
-
-    #searchForm [type=text]{
-    }
-     #searchForm [type=button]{
-        color: red;
-        border: 1px;
-    }
-</style>
-
-<form method="get" action="" id="searchForm">
-    <input type="text" name="" id="search">
-    <button type="button" onclick="window.open(
-    'https://www.baidu.com/s?ie=UTF-8&wd=' + document.getElementById('search').value
-    )">百度一下</button>
-
+<div id="searchbar">
+    <input type="text" id="searchMsg" placeholder="baidu 凑合用吧...">
+    <a id="btn">百度一下</a>
+</div>
 
 
 > 常用链接
