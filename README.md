@@ -31,7 +31,7 @@
 
 > 图片素材
 
-图片
+[picjumbo](https://picjumbo.com/) · [freepik](https://www.freepik.com/)
 
 > 资源搜索
 
