@@ -1,5 +1,6 @@
 <!-- docs/_sidebar.md -->
 
+* [:heart: Home](home.md)
 * [:fire: Coding](coding.md)
 * [:palm_tree: 视频媒体](media.md)
 * [:rocket: 工作相关](working.md)
