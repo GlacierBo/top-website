@@ -7,7 +7,7 @@
     <a id="btn">百度一下</a>
 </div>
 
-[Docsify](https://docsify.js.org/#/?id=docsify)  ·  [翻译](https://translate.google.cn) · [迷宫](http://www.mazebattles.com/) 
+[翻译](https://translate.google.cn) · [迷宫](http://www.mazebattles.com/) 
 
 
 > 常用链接

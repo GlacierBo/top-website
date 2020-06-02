@@ -1,10 +1,8 @@
 <!-- docs/_sidebar.md -->
 
-* [:palm_tree: Online Learning](learning.md)
-* [:zap: Media](vedio.md) 
-* [:rocket: Working](working.md)
 * [:fire: Coding](coding.md)
+* [:palm_tree: 视频媒体](media.md)
+* [:rocket: 工作相关](working.md)
 * [:books: Data](data.md)
-* [:mag: System Option](system.md)
-* [:performing_arts: Other](other.md)
-
+* [:mag: 系统相关](system.md)
+* [:performing_arts: 其他](other.md)
